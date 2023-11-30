@@ -32,3 +32,26 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Li":
+  - firstname: ["Lechuan", "L."]
+    url: https://scholar.google.com/citations?user=Ig9FCtoAAAAJ
+
+"Dannenfelser":
+  - firstname: ["Ruth", "R."]
+    url: https://scholar.google.com/citations?user=92zc-yQAAAAJ
+
+"Zhu":
+  - firstname: ["Yu", "Y."]
+    url: https://scholar.google.com/citations?user=ONQel1wAAAAJ
+
+"Segarra":
+  - firstname: ["Santiago", "S."]
+    url: https://scholar.google.com/citations?user=O1aSMXQAAAAJ
+
+"Yao":
+  - firstname: ["Vicky", "V."]
+    url: https://scholar.google.com/citations?user=egBVVA8AAAAJ
+
+"Hejduk":
+  - firstname: ["Nathaniel", "N."]
