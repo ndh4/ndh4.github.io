@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a first-year PhD student interested in the *pragmatics* of programming languages: 
+I'm a second-year PhD student interested in the *pragmatics* of programming languages: 
 - How do a language's characteristics affect its usefulness in a given context?
 - What causes a software developer to prefer one language over another?
 - How can we improve the process by which individual languages evolve?
