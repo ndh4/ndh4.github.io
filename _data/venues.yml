@@ -11,3 +11,7 @@
 "Bioinformatics":
   url: https://academic.oup.com/bioinformatics
   color: "#177DA4"
+
+"TOPLAS":
+  url: https://dl.acm.org/journal/toplas
+  color: "#FDBC7C"

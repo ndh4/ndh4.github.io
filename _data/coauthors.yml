@@ -53,5 +53,17 @@
   - firstname: ["Vicky", "V."]
     url: https://scholar.google.com/citations?user=egBVVA8AAAAJ
 
+"Greenman":
+  - firstname: ["Ben", "B."]
+    url: https://scholar.google.com/citations?user=3A9hNTEAAAAJ
+
+"Felleisen":
+  - firstname: ["Matthias", "M."]
+    url: https://scholar.google.com/citations?user=KP-Vo44AAAAJ
+
+"Dimoulas":
+  - firstname: ["Christos", "C."]
+    url: https://scholar.google.com/citations?user=mFs4fikAAAAJ
+
 "Hejduk":
   - firstname: ["Nathaniel", "N."]
