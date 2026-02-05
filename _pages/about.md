@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: third_pic.jpg
+  image: fourth_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2233 Tech Drive</p>
