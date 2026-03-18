@@ -28,4 +28,4 @@ I'm a third-year PhD student investigating the *pragmatics* of programming langu
 - What causes a software developer to prefer one language over another?
 - How can we improve the process by which individual languages evolve?
 
-I study under <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html">Christos Dimoulas</a> at Northwestern. Right now, I'm investigating the impact of design-by-contract on the size of minimal test suites.
+I work with <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html">Christos Dimoulas</a> at Northwestern. Right now, I'm studying the impact of design-by-contract on the size of minimal test suites.
