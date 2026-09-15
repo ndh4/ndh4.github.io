@@ -23,9 +23,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I'm a third-year PhD student investigating the *pragmatics* of programming languages:
+I'm a fourth-year PhD student investigating the *pragmatics* of programming languages:
 - How do a language's characteristics affect its usefulness in a given context?
 - What causes a software developer to prefer one language over another?
 - How can we improve the process by which individual languages evolve?
 
-I work with <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html">Christos Dimoulas</a> at Northwestern. Right now, I'm studying the impact of design-by-contract on the size of minimal test suites.
+I work with <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html">Christos Dimoulas</a> at Northwestern. Right now, I'm studying whether and how contracts can make it easier to test code effectively.
