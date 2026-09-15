@@ -218,6 +218,20 @@
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
       {% endif %}
+      {% if entry.pdf_as_published %}
+        {% if entry.pdf_as_published contains '://' %}
+          <a href="{{ entry.pdf_as_published }}" class="btn btn-sm z-depth-0" role="button">PDF as published</a>
+        {% else %}
+          <a href="{{ entry.pdf_as_published | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF as published</a>
+        {% endif %}
+      {% endif %}
+      {%- if entry.correction -%}
+        {% if entry.correction contains '://' -%}
+        <a href="{{ entry.correction }}" class="btn btn-sm z-depth-0" role="button">Corrected PDF</a>
+        {%- else -%}
+        <a href="{{ entry.correction | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Corrected PDF</a>
+        {%- endif %}
+      {%- endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
