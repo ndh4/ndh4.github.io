@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed my qualifying exam :speech_balloon:
+Passed my qualifying exam :bookmark_tabs:
